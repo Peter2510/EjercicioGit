@@ -3,6 +3,7 @@ mirarte
 aprender como sos
 quererte como sos
 
+
 <<<<<<< HEAD
 mi tactica es
 hablarte
@@ -17,11 +18,13 @@ construir con palabras
 un puente indestructible
 >>>>>>> dd80e4b99b41ec09fd3ef8f1713ea9944cc90bb3
 
+
 mi táctica es
 quedarme en tu recuerdo
 no sé cómo ni sé
 con qué pretexto
 pero quedarme en vos
+
 
 mi táctica es
 ser franco
@@ -31,6 +34,7 @@ simulacros
 para que entre los dos
 no haya telón
 ni abismos
+
 
 mi estrategia es
 en cambio
